@@ -1,0 +1,101 @@
+transaction_id,sale_date,product_id,category,quantity,unit_price,region,customer_segment,payment_method
+TXN-50001,2026-10-26,PROD-ELEC-01,Electronics,1,64999.00,North,Retail,UPI
+TXN-50002,2026-10-26,PROD-FMCG-05,FMCG,2,2899.00,South,Retail,UPI
+TXN-50003,2026-10-26,PROD-FMCG-01,FMCG,7,499.00,North,Wholesale,Credit Card
+TXN-50004,2026-10-26,PROD-APP-03,Apparel,1,3499.00,South,Retail,UPI
+TXN-50005,2026-10-26,PROD-ELEC-04,Electronics,3,2999.00,South,Retail,Credit Card
+TXN-50006,2026-10-26,PROD-FMCG-03,FMCG,1,1199.00,North,Retail,UPI
+TXN-50007,2026-10-26,PROD-HOME-02,Home & Kitchen,4,8999.00,South,Retail,Credit Card
+TXN-50008,2026-10-26,PROD-ELEC-04,Electronics,2,2999.00,North,Retail,Credit Card
+TXN-50009,2026-10-26,PROD-HOME-04,Home & Kitchen,4,3999.00,West,Retail,UPI
+TXN-50010,2026-10-26,PROD-ELEC-01,Electronics,3,64999.00,North,Retail,Cash
+TXN-50011,2026-10-26,PROD-APP-02,Apparel,1,2299.00,West,Retail,Cash
+TXN-50012,2026-10-26,PROD-APP-04,Apparel,4,5999.00,West,Retail,Net Banking
+TXN-50013,2026-10-26,PROD-FMCG-02,FMCG,7,799.00,North,Wholesale,UPI
+TXN-50014,2026-10-26,PROD-HOME-03,Home & Kitchen,6,18499.00,East,Corporate,UPI
+TXN-50015,2026-10-26,PROD-ELEC-02,Electronics,1,24999.00,South,Retail,Debit Card
+TXN-50016,2026-10-26,PROD-HOME-04,Home & Kitchen,3,3999.00,West,Retail,Debit Card
+TXN-50017,2026-10-26,PROD-APP-05,Apparel,2,1299.00,North,Retail,Net Banking
+TXN-50018,2026-10-26,PROD-HOME-05,Home & Kitchen,2,11499.00,East,Retail,UPI
+TXN-50019,2026-10-26,PROD-APP-05,Apparel,4,1299.00,South,Retail,UPI
+TXN-50020,2026-10-26,PROD-ELEC-02,Electronics,8,24999.00,North,Wholesale,UPI
+TXN-50021,2026-10-26,PROD-APP-05,Apparel,1,1299.00,North,Retail,Debit Card
+TXN-50022,2026-10-26,PROD-APP-04,Apparel,9,5999.00,North,Wholesale,Debit Card
+TXN-50023,2026-10-26,PROD-BEAU-02,Beauty & Personal Care,3,599.00,Central,Retail,Cash
+TXN-50024,2026-10-26,PROD-ELEC-05,Electronics,1,3499.00,Central,Retail,Credit Card
+TXN-50025,2026-10-26,PROD-APP-05,Apparel,4,1299.00,North,Retail,UPI
+TXN-50026,2026-10-26,PROD-HOME-04,Home & Kitchen,7,3999.00,South,Wholesale,Net Banking
+TXN-50027,2026-10-26,PROD-FMCG-05,FMCG,3,2899.00,South,Retail,Credit Card
+TXN-50028,2026-10-26,PROD-FMCG-04,FMCG,8,1499.00,North,Wholesale,UPI
+TXN-50029,2026-10-26,PROD-FMCG-03,FMCG,4,1199.00,North,Retail,UPI
+TXN-50030,2026-10-26,PROD-FMCG-03,FMCG,5,1199.00,North,Wholesale,Debit Card
+TXN-50031,2026-10-26,PROD-ELEC-05,Electronics,3,3499.00,South,Retail,Credit Card
+TXN-50032,2026-10-26,PROD-HOME-05,Home & Kitchen,4,11499.00,South,Retail,Cash
+TXN-50033,2026-10-26,PROD-ELEC-01,Electronics,1,64999.00,Central,Retail,Debit Card
+TXN-50034,2026-10-26,PROD-BEAU-05,Beauty & Personal Care,9,1899.00,North,Wholesale,Debit Card
+TXN-50035,2026-10-26,PROD-FMCG-02,FMCG,3,799.00,South,Retail,Net Banking
+TXN-50036,2026-10-27,PROD-ELEC-02,Electronics,1,24999.00,West,Retail,UPI
+TXN-50037,2026-10-27,PROD-HOME-05,Home & Kitchen,5,11499.00,West,Wholesale,Credit Card
+TXN-50038,2026-10-27,PROD-ELEC-03,Electronics,7,4499.00,North,Wholesale,Credit Card
+TXN-50039,2026-10-27,PROD-FMCG-05,FMCG,3,2899.00,North,Retail,Credit Card
+TXN-50040,2026-10-27,PROD-ELEC-02,Electronics,1,24999.00,North,Retail,Credit Card
+TXN-50041,2026-10-27,PROD-BEAU-03,Beauty & Personal Care,4,1299.00,North,Retail,Debit Card
+TXN-50042,2026-10-27,PROD-ELEC-05,Electronics,3,3499.00,North,Retail,Net Banking
+TXN-50043,2026-10-27,PROD-BEAU-01,Beauty & Personal Care,8,799.00,South,Corporate,UPI
+TXN-50044,2026-10-27,PROD-FMCG-05,FMCG,1,2899.00,East,Retail,UPI
+TXN-50045,2026-10-27,PROD-FMCG-02,FMCG,4,799.00,North,Retail,Credit Card
+TXN-50046,2026-10-27,PROD-HOME-03,Home & Kitchen,2,18499.00,North,Retail,UPI
+TXN-50047,2026-10-27,PROD-APP-03,Apparel,4,3499.00,West,Retail,Debit Card
+TXN-50048,2026-10-27,PROD-BEAU-02,Beauty & Personal Care,2,599.00,East,Retail,Credit Card
+TXN-50049,2026-10-27,PROD-ELEC-05,Electronics,2,3499.00,West,Retail,UPI
+TXN-50050,2026-10-27,PROD-FMCG-01,FMCG,4,499.00,South,Retail,UPI
+TXN-50051,2026-10-27,PROD-HOME-02,Home & Kitchen,1,8999.00,East,Retail,Credit Card
+TXN-50052,2026-10-27,PROD-HOME-05,Home & Kitchen,4,11499.00,South,Retail,UPI
+TXN-50053,2026-10-27,PROD-ELEC-04,Electronics,4,2999.00,South,Retail,UPI
+TXN-50054,2026-10-27,PROD-ELEC-02,Electronics,4,24999.00,Central,Retail,UPI
+TXN-50055,2026-10-27,PROD-APP-04,Apparel,2,5999.00,North,Retail,Credit Card
+TXN-50056,2026-10-27,PROD-HOME-02,Home & Kitchen,2,8999.00,Central,Retail,Credit Card
+TXN-50057,2026-10-27,PROD-BEAU-01,Beauty & Personal Care,4,799.00,North,Retail,Credit Card
+TXN-50058,2026-10-27,PROD-BEAU-03,Beauty & Personal Care,3,1299.00,West,Retail,Debit Card
+TXN-50059,2026-10-27,PROD-HOME-03,Home & Kitchen,8,18499.00,North,Wholesale,Credit Card
+TXN-50060,2026-10-27,PROD-FMCG-05,FMCG,3,2899.00,East,Retail,Net Banking
+TXN-50061,2026-10-27,PROD-ELEC-05,Electronics,4,3499.00,East,Retail,Credit Card
+TXN-50062,2026-10-27,PROD-ELEC-03,Electronics,5,4499.00,North,Wholesale,UPI
+TXN-50063,2026-10-27,PROD-BEAU-02,Beauty & Personal Care,6,599.00,North,Corporate,Credit Card
+TXN-50064,2026-10-27,PROD-BEAU-05,Beauty & Personal Care,2,1899.00,West,Retail,UPI
+TXN-50065,2026-10-27,PROD-BEAU-04,Beauty & Personal Care,5,649.00,West,Wholesale,UPI
+TXN-50066,2026-10-27,PROD-ELEC-02,Electronics,1,24999.00,East,Retail,Debit Card
+TXN-50067,2026-10-27,PROD-HOME-05,Home & Kitchen,2,11499.00,West,Retail,Debit Card
+TXN-50068,2026-10-27,PROD-HOME-01,Home & Kitchen,2,6499.00,North,Retail,UPI
+TXN-50069,2026-10-27,PROD-APP-02,Apparel,2,2299.00,North,Retail,UPI
+TXN-50070,2026-10-28,PROD-BEAU-04,Beauty & Personal Care,6,649.00,North,Wholesale,Debit Card
+TXN-50071,2026-10-28,PROD-ELEC-03,Electronics,2,4499.00,East,Retail,Credit Card
+TXN-50072,2026-10-28,PROD-ELEC-02,Electronics,8,24999.00,West,Wholesale,UPI
+TXN-50073,2026-10-28,PROD-FMCG-04,FMCG,4,1499.00,South,Retail,UPI
+TXN-50074,2026-10-28,PROD-APP-02,Apparel,3,2299.00,West,Retail,Credit Card
+TXN-50075,2026-10-28,PROD-HOME-02,Home & Kitchen,1,8999.00,East,Retail,UPI
+TXN-50076,2026-10-28,PROD-HOME-05,Home & Kitchen,1,11499.00,South,Retail,UPI
+TXN-50077,2026-10-28,PROD-ELEC-05,Electronics,2,3499.00,West,Retail,UPI
+TXN-50078,2026-10-28,PROD-ELEC-02,Electronics,3,24999.00,East,Retail,UPI
+TXN-50079,2026-10-28,PROD-APP-04,Apparel,2,5999.00,South,Retail,Net Banking
+TXN-50080,2026-10-28,PROD-APP-05,Apparel,3,1299.00,North,Retail,Net Banking
+TXN-50081,2026-10-28,PROD-HOME-03,Home & Kitchen,4,18499.00,East,Retail,Net Banking
+TXN-50082,2026-10-28,PROD-APP-04,Apparel,2,5999.00,East,Retail,UPI
+TXN-50083,2026-10-28,PROD-HOME-01,Home & Kitchen,3,6499.00,West,Retail,UPI
+TXN-50084,2026-10-28,PROD-BEAU-05,Beauty & Personal Care,5,1899.00,East,Wholesale,UPI
+TXN-50085,2026-10-28,PROD-FMCG-04,FMCG,1,1499.00,Central,Retail,Debit Card
+TXN-50086,2026-10-28,PROD-HOME-02,Home & Kitchen,9,8999.00,Central,Corporate,Credit Card
+TXN-50087,2026-10-28,PROD-ELEC-03,Electronics,1,4499.00,West,Retail,UPI
+TXN-50088,2026-10-28,PROD-ELEC-04,Electronics,4,2999.00,North,Retail,Credit Card
+TXN-50089,2026-10-28,PROD-FMCG-01,FMCG,5,499.00,South,Wholesale,Cash
+TXN-50090,2026-10-28,PROD-ELEC-02,Electronics,9,24999.00,North,Wholesale,UPI
+TXN-50091,2026-10-28,PROD-HOME-03,Home & Kitchen,1,18499.00,East,Retail,Credit Card
+TXN-50092,2026-10-28,PROD-HOME-03,Home & Kitchen,4,18499.00,West,Retail,UPI
+TXN-50093,2026-10-28,PROD-FMCG-03,FMCG,3,1199.00,North,Retail,Net Banking
+TXN-50094,2026-10-28,PROD-HOME-02,Home & Kitchen,2,8999.00,North,Retail,UPI
+TXN-50095,2026-10-28,PROD-ELEC-03,Electronics,1,4499.00,East,Retail,Debit Card
+TXN-50096,2026-10-28,PROD-ELEC-01,Electronics,1,64999.00,West,Retail,UPI
+TXN-50097,2026-10-28,PROD-ELEC-05,Electronics,2,3499.00,South,Retail,UPI
+TXN-50098,2026-10-28,PROD-APP-05,Apparel,1,1299.00,North,Retail,Credit Card
+TXN-50099,2026-10-28,PROD-ELEC-03,Electronics,3,4499.00,North,Retail,Credit Card
+TXN-50100,2026-10-28,PROD-APP-03,Apparel,3,3499.00,South,Retail,UPI

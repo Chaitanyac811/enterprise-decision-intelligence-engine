@@ -1,0 +1,22 @@
+{
+  "name": "enterprise-bi-backend",
+  "version": "1.0.0",
+  "description": "Express backend API for Enterprise Decision Intelligence Engine",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js",
+    "test": "node tests/api.test.js"
+  },
+  "keywords": ["business-intelligence", "analytics", "express", "postgresql"],
+  "author": "Enterprise Decision Intelligence Team",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "csv-parser": "^3.0.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "multer": "^1.4.5-lts.1",
+    "pg": "^8.11.5"
+  }
+}

@@ -1,0 +1,9 @@
+transaction_id,sale_date,product_id,category,quantity,unit_price,region,customer_segment,payment_method
+TXN-ERR-01,2026-10-28,PROD-ELEC-01,Electronics,2,64999.00,North,Retail,UPI
+TXN-ERR-02,INVALID_DATE,PROD-ELEC-02,Electronics,1,24999.00,South,Retail,UPI
+TXN-ERR-03,2026-10-28,NON_EXISTENT_PROD,Electronics,1,1000.00,West,Retail,UPI
+TXN-ERR-04,2026-10-28,PROD-APP-01,Apparel,-5,1899.00,East,Retail,UPI
+,2026-10-28,PROD-HOME-01,Home & Kitchen,1,6499.00,Central,Retail,UPI
+TXN-ERR-06,2026-10-28,PROD-FMCG-01,FMCG,3,-499.00,North,Retail,UPI
+TXN-ERR-07,2026-10-28,PROD-BEAU-01,Beauty,2,799.00,InvalidRegion,Retail,UPI
+TXN-ERR-08,2026-10-28,PROD-BEAU-02,Beauty & Personal Care,1,599.00,South,Retail,UPI
